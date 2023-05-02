@@ -66,7 +66,7 @@ int main() {
 	/* If uslov provjerava uslov po uslov, počevši od prvog if-a, pa prvi else if, i sve do else-a
 	Za razliku od if uslova, switch case je dosta brži, jer u istom trenutku svaki se case provjeri,
 	dok kod if uslova, svaki uslov mora da sačeka prethodnog. Iako se to u realnosti ne primjeti, 
-	u real-time embeded sistemima može biti od izuzetne važnosti.
+	u real-time embedded sistemima može biti od izuzetne važnosti.
 	*/
 
 	// Ternary operator ? je zapravo one-liner za if uslov
